@@ -16,6 +16,7 @@ const START = CRYSTAL_SIZE / 1.5
 let totalCrystals = []
 
 function setup() {
+	
     const totalX = GRIDBOX * COLUNMS + MARGIN;
     const totalY = GRIDBOX * ROWS + MARGIN
     createCanvas(totalX, totalY,SVG);
@@ -30,7 +31,7 @@ function setup() {
 }
 
 function draw() {
-
+	background(255);
     for (let x = 0; x < COLUNMS; x++) {
         for (let y = 0; y < ROWS; y++) {
             const posX = START + x * GRIDBOX;
