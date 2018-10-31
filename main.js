@@ -128,7 +128,7 @@ function findPoints(posX, posY, radius, angle) {
     return createVector(x, y);
 }
 
-// Just copy and paste from Matt, just an easy rotation
+//  Copy and paste from Matt, just an easy rotation
 
 function myTriangle (center, radius, direction) {
     if (direction) {
