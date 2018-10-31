@@ -4,5 +4,5 @@ Based on Matthew Epler's Tutorial: [Designing Generative Systems w/ P5.js](https
 
 Codes structures are mainly based on his tutorial.
 
-The details to achieve the fina design effect are not the same for most layers.
+The details to achieve the final design effect are not the same for most layers.
 
